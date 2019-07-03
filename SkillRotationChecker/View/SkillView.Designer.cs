@@ -1572,6 +1572,7 @@
             this.txtPlayerName.Name = "txtPlayerName";
             this.txtPlayerName.Size = new System.Drawing.Size(174, 12);
             this.txtPlayerName.TabIndex = 7;
+            this.txtPlayerName.Text = "プレイヤー名を入力してください";
             // 
             // SkillView
             // 
